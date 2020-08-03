@@ -1,6 +1,6 @@
 function updateIcon(state){
 	var color = state ? [255, 128, 0, 255] : [190, 190, 190, 230];
-	var text = state ? 'Sticky' : 'Flex';
+	var text = state ? 'Sticky' : ' Off ';
 
 	chrome.browserAction.setBadgeBackgroundColor({color: color});
 	chrome.browserAction.setBadgeText({text: text});
