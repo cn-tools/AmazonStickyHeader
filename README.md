@@ -2,7 +2,7 @@
 
 [![Author](http://img.shields.io/badge/author-@cntools-blue.svg?style=flat-square)](https://github.com/cn-tools)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
-[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/release/cn-tools/AmazonStickyHeader.svg?include_prereleases&maxAge=2592000&style=flat-square)](https://github.com/cn-tools/AmazonStickyHeader/releases)
+[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/release/cn-tools/AmazonStickyHeader.svg?include_prereleases&style=flat-square)](https://github.com/cn-tools/AmazonStickyHeader/releases)
 
 Extension to Google Chrome to toggle the header between flex and sticky of Amazon.
 
