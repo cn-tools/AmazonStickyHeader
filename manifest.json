@@ -4,7 +4,7 @@
   "name": "Sticky header for Amazon",
   "short_name": "Sticky header for Amazon",
   "description": "Toggle the header of Amazon with a click between flex/sticky",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage_url": "https://github.com/cn-tools/AmazonStickyHeader",
 
   "icons": {
